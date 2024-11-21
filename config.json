@@ -1,0 +1,9 @@
+{
+    "block_size": 128,
+    "algorithm": "AES",
+    "key": "00112233445566778899AABBCCDDEEFF",
+    "mode": "CBC",
+    "iv": "0102030405060708090A0B0C0D0E0F10",
+    "padding": "PKCS7",
+    "test_file": "testfile.bin"
+  }
